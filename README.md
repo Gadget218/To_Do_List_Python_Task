@@ -2,7 +2,7 @@
 A to do list application made using Python and Tkinter( GUI framework) as a task for newsreels selection process.
 
 # How to run the app?
-Both the to_do_list python file and data text file should be in the same folder. The data file acts as the app's database. Simply open/run the to_do_list python file to start the application.
+Both the to_do_list python file and data text file should be in the same folder. The data file acts as the app's database. Simply open/run the to_do_list python file to start the application. Use the app in full screen for better user experience.
 
 # Requirments
 Python<br/>
@@ -14,4 +14,5 @@ Tkinter
 4.To Unmark a task: Select a marked task from the "Tasks" list and click the "Remove Mark" button. The selected text's color changes to black.<br/>
 
 #Note
-Read the attached documentation to know the detailed working of the code.
+Read the attached documentation to know the detailed working of the code.<br/>
+
